@@ -1,2 +1,2 @@
 # SVM_Ex
-SVM_excercise
+SVM excercises with jupyter notebook
